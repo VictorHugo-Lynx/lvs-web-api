@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: lvs_web_api
+Version: 0.0.1
+Summary: API REST utilizada para comunicação com o LVS Web Interface, facilitando alteração de parâmetros da aplicação.
+Author: Victor Hugo De Paula Santos
+Project-URL: Repository, https://github.com/TSALynxProcessGPeD/lvs-web-api
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: fastapi[standard]>=0.141.1

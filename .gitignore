@@ -1,0 +1,32 @@
+# Temporary test directories
+test/
+src/
+
+# Logs
+debug/
+logs/
+*.log
+*.db
+
+# Python cache
+lvs_comm.egg-info/
+lvs_comm/__pycache__/
+*.pyc
+
+# Utility scripts outputs
+scripts/.cache
+scripts/data
+.cache
+
+# Data files
+data/
+
+# Virtual environments
+.venv/
+.env/
+venv/
+env/
+
+# IDE-specific
+.vscode/
+.idea/

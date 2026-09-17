@@ -1,0 +1,6 @@
+pyproject.toml
+lvs_web_api.egg-info/PKG-INFO
+lvs_web_api.egg-info/SOURCES.txt
+lvs_web_api.egg-info/dependency_links.txt
+lvs_web_api.egg-info/requires.txt
+lvs_web_api.egg-info/top_level.txt
